@@ -6,7 +6,7 @@ const skills = {
     {icon:'',name:'Regression',lvl:90},{icon:'',name:'Gradient descent',lvl:85}  
   ],
   
-  sg2: [{icon:'',name:'Python',lvl:90},{icon:'',name:'FASTAPI',lvl:85},{icon:'',name:'C/C++',lvl:90},{icon:'',name:'leaflet.js',lvl:90},
+  sg4: [{icon:'',name:'Python',lvl:90},{icon:'',name:'FASTAPI',lvl:85},{icon:'',name:'C/C++',lvl:90},{icon:'',name:'leaflet.js',lvl:90},
     {icon:'',name:'HTML/CSS/Javascript',lvl:85}
   ]
 };
