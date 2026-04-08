@@ -5,11 +5,8 @@ const skills = {
     {icon:'',name:'Feature engineering',lvl:78},{icon:'',name:'Anomaly Detection',lvl:80},{icon:'',name:'EDA',lvl:80},
     {icon:'',name:'Regression',lvl:90},{icon:'',name:'Gradient descent',lvl:85}  
   ],
-  sg2: [
-  ],
-  sg3: [
-  ],
-  sg4: [{icon:'',name:'Python',lvl:90},{icon:'',name:'FASTAPI',lvl:85},{icon:'',name:'C/C++',lvl:90},{icon:'',name:'leaflet.js',lvl:90},
+  
+  sg2: [{icon:'',name:'Python',lvl:90},{icon:'',name:'FASTAPI',lvl:85},{icon:'',name:'C/C++',lvl:90},{icon:'',name:'leaflet.js',lvl:90},
     {icon:'',name:'HTML/CSS/Javascript',lvl:85}
   ]
 };
